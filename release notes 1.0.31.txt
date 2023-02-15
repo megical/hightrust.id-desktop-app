@@ -1,0 +1,4 @@
+
+* If metadata description contains <br> tag, a new line feed is applied to user interface.
+
+* Some technical internal improvements applied
