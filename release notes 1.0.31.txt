@@ -1,4 +1,2 @@
-
-* If metadata description contains <br> tag, a new line feed is applied to user interface.
-
-* Some technical internal improvements applied
+* hightrust.id Setup 1.0.31.exe for per user installation
+* hightrust.id Setup 1.0.31-a.exe for per machine installation
