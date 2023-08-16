@@ -1,0 +1,2 @@
+* Exits app after signature
+* Installer changed to .msi
