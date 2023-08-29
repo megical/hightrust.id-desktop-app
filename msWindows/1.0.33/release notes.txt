@@ -1,2 +1,2 @@
 * Exits app after signature
-* Installer changed to .msi
+* Two distinct installer types .exe and .msi . Both will work on windows.
