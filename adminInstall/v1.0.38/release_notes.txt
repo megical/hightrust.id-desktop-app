@@ -1,0 +1,1 @@
+*Fixed concurrency issues when multiple applicaions communicates with card 
