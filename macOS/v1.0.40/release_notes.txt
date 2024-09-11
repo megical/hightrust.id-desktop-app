@@ -1,0 +1,2 @@
+*Removed unnesseccary code input screen
+*When app is uninstalled, also the install directory is removed
